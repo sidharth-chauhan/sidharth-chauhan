@@ -30,9 +30,6 @@ Here are some of my notable projects:
 - [MySQL Database Containerization](https://github.com/sidharth-chauhan/MySQL-Database-Containerization) - Containerize your MySQL database with Docker for efficient deployment.
 - [Three-Tier Webapp](https://github.com/sidharth-chauhan/three-tier-webapp) - A JavaScript-based web application demonstrating a three-tier architecture.
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidharth-chauhan&show_icons=true&theme=radical)
 
 ## Connect with Me
 
