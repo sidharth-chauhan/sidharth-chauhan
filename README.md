@@ -1,6 +1,6 @@
 # Hi there, I'm Sidharth Chauhan 👋
 
-![DevOps GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![DevOps GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong focus on automating and optimizing processes to enhance software development and deployment. I thrive in environments that leverage cutting-edge technologies and tools.
 
