@@ -55,10 +55,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/sidharth-chauhan/RepoRover">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidharth-chauhan&repo=RepoRover&theme=tokyonight&border_color=0abde3" />
+      <a href="https://github.com/sidharth-chauhan/go_IMDB-cli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidharth-chauhan&repo=go_IMDB-cli&theme=tokyonight&border_color=0abde3" />
       </a>
-      <p><b>RepoRover</b><br><sub>Terminal GitHub explorer — Go, Docker, GitHub API, Kubernetes</sub></p>
+      <p><b>go_IMDB-cli</b><br><sub>Search, compare, and manage IMDb movies from your terminal — Go + SQLite + Cobra CLI</sub></p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/sidharth-chauhan/GoTaskify">
