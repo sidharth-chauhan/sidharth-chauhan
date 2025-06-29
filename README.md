@@ -1,50 +1,105 @@
-# Hi there, I'm Sidharth Chauhan 👋
+<!-- 🌟 Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Sidharth%20Chauhan&fontSize=40&fontColor=ffffff&desc=Backend%20Engineer%20%7C%20DevOps%20%7C%20Cloud-Native%20Developer&descSize=16&descAlign=50&descAlignY=70" />
+</p>
 
-![DevOps GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<!-- ⌨️ Typing Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Go+Lang+Backend+Developer+%7C+DevOps+Automation;Infrastructure+as+Code+%7C+Container+First+%7C+CI%2FCD+Native;Delivering+Clean%2C+Scalable%2C+Cloud-Ready+Solutions" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong focus on automating and optimizing processes to enhance software development and deployment. I thrive in environments that leverage cutting-edge technologies and tools.
-
-## About Me
-
-- 🚀 **Innovator**: Constantly exploring new DevOps tools and methodologies to push the boundaries of what's possible.
-- 🤝 **Collaborator**: Eager to work on projects involving DevOps and cloud technologies, and always open to new ideas.
-- 📚 **Learner**: Currently diving deep into advanced Terraform techniques and scaling Kubernetes clusters.
-- 🌐 **Connector**: Love connecting with like-minded professionals to share knowledge and experiences.
-- 💬 **Ask Me**: About DevOps, cloud infrastructure, and automation. I'm here to help!
-
-## Skills
-
-- **DevOps Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-- **Cloud Platforms:** ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- **Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- **Monitoring:** ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-## Projects
-
-Here are some of my notable projects:
-
-- [Docker Scripts](https://github.com/sidharth-chauhan/docker-scripts) - A collection of Docker and Docker Compose files designed to streamline containerized application development and deployment.
-- [MySQL Database Containerization](https://github.com/sidharth-chauhan/MySQL-Database-Containerization) - Containerize your MySQL database with Docker for efficient deployment.
-- [Three-Tier Webapp](https://github.com/sidharth-chauhan/three-tier-webapp) - A JavaScript-based web application demonstrating a three-tier architecture.
-
-
-## Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sidharth-chauhan)
-- [![X](https://img.shields.io/badge/X-blue?style=flat&logo=x)](https://x.com/Sidharthshalini)
-- [![Hashnode](https://img.shields.io/badge/Hashnode-blue?style=flat&logo=hashnode)](https://hashnode.com/@sidharth01)
-
-## Contributions
-
-![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sidharth-chauhan&theme=radical)
-
-## Get In Touch
-
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to say hi!
+<!-- 📬 Contact -->
+<p align="center">
+  <a href="mailto:chauhansiddharth71@gmail.com"><img src="https://img.shields.io/badge/Email-chauhansiddharth71%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/sidharth-chauhan"><img src="https://img.shields.io/badge/GitHub-sidharth--chauhan-black?style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sidharth-chauhan&style=for-the-badge&color=0abde3&label=Views" />
+</p>
 
 ---
 
-Thank you for visiting my profile! 😊
+## 👨‍💻 About Me
+
+🧩 I’m a backend and DevOps engineer focused on building **reliable, cloud-ready systems** with a modern toolchain.
+
+- Writing **production-grade Go code** with clean architecture and API-first design  
+- Building **CLIs**, microservices, and internal tools that scale with teams  
+- Automating workflows using **Docker**, **Kubernetes**, **GitHub Actions**, and **Terraform**  
+- Deploying cloud-native services on **AWS**, with CI/CD and IaC baked in  
+- Obsessed with **clean, observable, infrastructure-as-code systems**
+
+📌 I'm open to **backend**, **DevOps**, or **platform engineering** roles — focused on delivery, performance, and simplicity.
+
+---
+
+## 🧠 Tech Stack
+
+#### 🟦 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,sqlite,postgresql,redis&perline=7" />
+</p>
+
+#### ⚙️ DevOps & Cloud Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,aws,linux,git,bash&perline=8" />
+</p>
+
+#### 🔵 Frontend Foundation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=6" />
+</p>
+
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sidharth-chauhan/RepoRover">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidharth-chauhan&repo=RepoRover&theme=tokyonight&border_color=0abde3" />
+      </a>
+      <p><b>RepoRover</b><br><sub>Terminal GitHub explorer — Go, Docker, GitHub API, Kubernetes</sub></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sidharth-chauhan/GoTaskify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidharth-chauhan&repo=GoTaskify&theme=tokyonight&border_color=0abde3" />
+      </a>
+      <p><b>GoTaskify</b><br><sub>REST API with GORM, SQLite, Clean Architecture & CI/CD</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sidharth-chauhan&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-chauhan&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+🎓 B.Tech  
+🏫 NIT Agartala  
+📅 2023 – 2027
+
+---
+
+<p align="center">
+  <b>Let’s connect:</b> 📧 chauhansiddharth71@gmail.com &nbsp;|&nbsp; 🌐 github.com/sidharth-chauhan
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer"/>
+</p>
