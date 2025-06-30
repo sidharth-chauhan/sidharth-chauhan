@@ -5,7 +5,7 @@
 
 <!-- ⌨️ Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Go+Lang+Backend+Developer+%7C+DevOps+Automation;Infrastructure+as+Code+%7C+Container+First+%7C+CI%2FCD+Native;Delivering+Clean%2C+Scalable%2C+Cloud-Ready+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Golang+Backend+Developer+%7C+DevOps+Automation;Infrastructure+as+Code+%7C+Container+First+%7C+CI%2FCD+Native;Delivering+Clean%2C+Scalable%2C+Cloud-Ready+Solutions" />
 </p>
 
 <!-- 📬 Contact -->
