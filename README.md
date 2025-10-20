@@ -1,54 +1,54 @@
 # Sidharth Chauhan
-**Backend • Infrastructure • DevOps**
+Backend Developer | Intern @ Unque | Hacktoberfest ’25
 
 ---
 
 ### About
 
-Focused on building reliable backend systems and scalable infrastructure.  
-Work primarily with **Go**, **Node.js**, **PostgreSQL**, and **MongoDB**, using **Docker** and **GitHub Actions** for automation.  
-Currently exploring **Kubernetes** and **AWS** to improve deployment and scalability workflows.
+I work on backend development and automation, focusing on building scalable, clean, and reliable systems.  
+Skilled in Go, Node.js, PostgreSQL, and MongoDB — with experience using Docker and GitHub Actions for deployment workflows.  
+Currently exploring Kubernetes and AWS to strengthen my understanding of cloud-native infrastructure.
 
 ---
 
 ### Tech Stack
 
-**Backend**  
+Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,nodejs,express,postgresql,mongodb&perline=7" />
 </p>
 
-**Infrastructure & DevOps**  
+DevOps & Infrastructure  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux&perline=7" />
 </p>
 
-**Exploring**  
+Exploring  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kubernetes,aws&perline=7" />
 </p>
 
 ---
 
-### What I Do
+### GitHub Overview
 
-- Build backend services using **Go** and **Node.js**  
-- Work with **PostgreSQL** and **MongoDB** for data management  
-- Automate builds and CI/CD with **Docker** and **GitHub Actions**  
-- Learn and experiment with **Kubernetes** and **AWS**
+<div align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 11px; display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-chauhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,stars&hide_rank=true&border_color=0abde3&custom_title=GitHub%20Activity%20(2025–Present)&line_height=22" width="45%" height="180px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-chauhan&layout=compact&theme=tokyonight&border_color=0abde3&custom_title=Language%20Breakdown" width="45%" height="180px"/>
+
+</div>
 
 ---
 
-### GitHub Overview
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-chauhan&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&border_color=0abde3" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-chauhan&layout=compact&theme=tokyonight&border_color=0abde3" width="49%" />
+<p align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 12px;">
+🟢 <b>Total Commits:</b> 135 &nbsp;&nbsp; | &nbsp;&nbsp; 🟣 <b>Total PRs:</b> 21 &nbsp;&nbsp; | &nbsp;&nbsp; 🔵 <b>Total Contributions:</b> 156  
 </p>
 
 ---
 
 ### Connect
 
-**Email:** [chauhansiddharth71@gmail.com](mailto:chauhansiddharth71@gmail.com)  
-**GitHub:** [github.com/sidharth-chauhan](https://github.com/sidharth-chauhan)
+Email: [chauhansiddharth71@gmail.com](mailto:chauhansiddharth71@gmail.com)  
+GitHub: [github.com/sidharth-chauhan](https://github.com/sidharth-chauhan)
